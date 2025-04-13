@@ -23,6 +23,7 @@ An AI-powered chatbot Android app built with **Jetpack Compose**, **Kotlin**, **
 
 ---
 🧩 Tech Stack
+
 🧠 Kotlin
 
 🖌 Jetpack Compose (Material 3)
@@ -34,12 +35,16 @@ An AI-powered chatbot Android app built with **Jetpack Compose**, **Kotlin**, **
 🎙️ Android Speech Recognition
 
 🧪 MVVM + Coroutines
+
 Clone Repo --
+
 git clone https://github.com/Abhirup188/ai-chatbot-app.git
+
 Build And Run
+
 Connect Your Android Phone and Test
 
-📚 What I Learned
+📚 What I Learned:
 Implemented Gemini API for real-time AI responses
 
 Used Room DB with Flow for persistent and reactive data
@@ -48,7 +53,7 @@ Integrated speech recognition using Compose-friendly permissions
 
 Structured app using ViewModel, Repository, and coroutine flows
 
-🙋‍♂️ About Me
+🙋‍♂️ About Me:
 🎓 I'm a 2nd-year Mechanical Engineering student passionate about software, AI, and building smart applications. This app is part of my journey into full-stack mobile development with AI integrations.
 
 
